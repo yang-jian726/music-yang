@@ -1,0 +1,19 @@
+.content-pannel3-search{
+    margin: 12px auto;
+    background: #ebecec;
+    height: 30px;
+    width: 90%;
+    border-radius: 30px;
+    position: relative;
+}
+.content-pannel3-search-input{
+    width: calc(100% - 60px);
+    font-size: 14px;
+    color: #333;
+    line-height: 30px;
+    margin-left: 24px;
+    outline: none;
+    border: none;
+    background: transparent;
+    cursor: text;
+}
